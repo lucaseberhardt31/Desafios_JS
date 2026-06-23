@@ -16,6 +16,14 @@ const produtos = [
     {nome: "Mouse Gamer RGB", preco: 89.90},
     {nome: "Teclado Mecânico", preco: 249.90},
     {nome: "Monitor 24 Polegadas", preco: 799.90},
+    {nome: "Headset USB", preco: 129.90},
+    {nome: "Pen Drive 32GB", preco: 49.90},
+    {nome: "SSD 480GB", preco: 229.90},
+    {nome: "Memória RAM 8GB DDR4", preco: 179.90},
+    {nome: "Webcam Full HD", preco: 149.90},
+    {nome: "Adaptador Wi-Fi USB", preco: 69.90},
+    {nome: "Caixa de Som USB", preco: 95.90},
+
     
 ]
 let y = 0;
